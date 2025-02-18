@@ -10,4 +10,4 @@ Welcome to my learning journal! This is where I track my learning progress in **
 - **Projects** 📊: Future analytics projects.
 - **Resources** 📚: Books, articles, and useful references.
 
-🔗 View my journal at: [GitHub Pages](https://USERNAME.github.io/learning-journal)
+🔗 View my journal at: [GitHub Pages](https://haddz.github.io/Learning-journal/)
