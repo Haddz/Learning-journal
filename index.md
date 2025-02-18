@@ -1,7 +1,4 @@
----
-layout: default
-title: "My Learning Journal"
----
+
 
 # Welcome to My Learning Journal! 📖
 
